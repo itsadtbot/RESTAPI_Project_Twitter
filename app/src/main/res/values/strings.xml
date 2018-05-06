@@ -1,0 +1,10 @@
+<resources >
+    <string name="app_name">RESTAPI_Project</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">7itLWycxhx1YQJr3UvRralAsu</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">84lPhZuZCFf5Azv9zxZl2PDyB8zQRKth7tszm2if0e7gIWNh31</string>
+    <string name="textview">TWEET DISPLAY</string>
+    <string name="EditText">Enter Keyword Here</string>
+    <string name="success">Success!</string>
+    <string name="failure">Failed!</string>
+    <string name="fetch">  Fetch!  </string>
+</resources>
